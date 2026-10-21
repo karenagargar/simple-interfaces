@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+    <string name="type_user1">Parent</string>
+    <string name="type_user2">Child</string>
+    <string name="type_user3">Teacher</string>
+    <string name="signup">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="ya_tienes_cuenta">Already have an account? </string>
+    <string name="login">Login here</string>
+    <string name="image_description">image</string>
+    <string name="who">who you are?</string>
+    <string name="signin">Sign In</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="create_account">Create account</string>
+</resources>
